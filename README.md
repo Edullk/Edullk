@@ -23,8 +23,4 @@
   <a href="https://www.linkedin.com/in/eduardo-oliveira-dev-tester/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-[![](https://img.shields.io/badge/Made%20With-Github%20Spray-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
-
 </div>
