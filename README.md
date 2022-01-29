@@ -12,7 +12,7 @@
   <img align="center" alt="Edu-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937025611841536000/937025967346556948/AVATAR.gif">
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="avatar.gif">
 </div>
   
   ##
