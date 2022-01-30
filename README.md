@@ -1,4 +1,4 @@
-## Olá eu sou a Eduardo Oliveira, desenvolvedor, QA e entusiasta de pentest
+## Olá eu sou Eduardo Oliveira, desenvolvedor, QA e entusiasta de pentest
 ## Prefiro o GitLab
 <div align="center">
   <a href="https://github.com/Edullk">
